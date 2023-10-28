@@ -1,0 +1,18 @@
+*{
+    background-color: purple;
+}
+
+.souDiv{
+    height: 100px;
+    width: 100%;
+    background-color: darkgreen;
+}
+#souDiv1{
+    height: 100px;
+    width: 100px;
+    background-color: lightslategrey;
+}
+
+p.souDiv{
+    font-size:28px;
+}
